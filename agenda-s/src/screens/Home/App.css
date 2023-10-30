@@ -33,8 +33,24 @@ header {
 .logoDiv {
     position: absolute;
     left: 2.5%;
+    align-items: center;
+}
+
+.agendas {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
 }
 
 .senaiLogo {
     width: 300px;
+}
+
+.logo {
+    width: 75px;
+}
+
+.headerText {
+    font-size: 25px;
 }

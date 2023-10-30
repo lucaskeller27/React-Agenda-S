@@ -2,6 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import senaiLogo from '../../assets/sesi-senai.png'
+import logo from '../../assets/logo.png'
 
 import './App.css'
 
@@ -16,9 +17,8 @@ function App() {
               <img src={senaiLogo} alt="SESI SENAI" className='senaiLogo'/>
           </div>
           <div className="agendas">
-              {/* <img id="logoMain" src="./assets/logo.png" alt="Agenda S Logo"/> */}
-              {/* <img src={myImage} alt="Trees" height="200" /> */}
-              <p id="headerText">Agenda S</p>
+              <img src={logo} alt="Agenda S" className='logo'/>
+              <p className="headerText">Agenda S</p>
           </div>
       </header>
 
