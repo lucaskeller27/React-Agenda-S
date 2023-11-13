@@ -36,7 +36,7 @@ function App() {
                 <a href="../Gerenciamento/App.tsx"><button className="buttonBlue"><p className="buttonText">Entrar</p></button></a>
             </div>
         </div>
-
+        
       <footer>
           <p className='footerText'>SENAI Florianópolis (CTAI)<br/>Fone: (48) 3239-5800<br/>
               SC-401, 3730 - Saco Grande, Florianópolis - SC, 88032-005</p>
