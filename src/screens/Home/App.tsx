@@ -1,6 +1,4 @@
 // import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
 import senaiLogo from '../../assets/sesi-senai.png'
 import logo from '../../assets/logo.png'
 import facebook from '../../assets/icons/facebook.svg'
